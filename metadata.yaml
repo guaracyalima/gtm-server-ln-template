@@ -1,0 +1,5 @@
+homepage: "https://github.com/guaracyalima/gtm-server-fn-template"
+documentation: "https://github.com/guaracyalima/gtm-server-fn-template/blob/master/README.md"
+versions:
+  - sha: 260af23 
+    changeNotes: Initial release.
